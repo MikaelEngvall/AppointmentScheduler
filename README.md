@@ -7,9 +7,7 @@
 
 <a href="https://github.com/slabiak/slabiak.github.io/blob/master/images/appointmentscheduler/calendar.png?raw=true"><img src="https://github.com/slabiak/slabiak.github.io/blob/master/images/appointmentscheduler/calendar.png?raw=true" width="600"></a>
 
-## Demo
 
-The live demo of this app is deployed and can be found [here](https://appscheduler.onrender.com/) 
 
 You can use the following credentials with live demo:
 
@@ -19,10 +17,6 @@ You can use the following credentials with live demo:
 | `provider` | provider |qwerty123 |
 | `corporate customer` | customer_c |qwerty123 |
 | `retail customer` | customer_r |qwerty123 |
-
-## Blog
-
-This application is being described in [devoxify.com](https://devoxify.com/) blog. If you are interested in how this project was created, what issues were encoutered and how they were solved I highly encourage you to visit this blog.
 
 ## Steps to Setup
 
@@ -143,13 +137,6 @@ Email templates can be found here: `src\main\resources\templates\email`
 * [Fullcalendar](https://fullcalendar.io/) - A JavaScript event calendar
 * [FlyingSaucer](https://github.com/flyingsaucerproject/flyingsaucer) - Used to generate invoice PDF
 * [jjwt](https://github.com/jwtk/jjwt) - Used to generate/validate JWT tokens
-
-## Contribute
-
-Let's together make AppointmentScheduler awesome!
-
-If you have any suggestions/ideas please feel free to write about it. You are also welcome to fork this project and send pull request with your changes.
-
 
 ## License
 
