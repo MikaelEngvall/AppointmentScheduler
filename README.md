@@ -29,7 +29,7 @@ This application is being described in [devoxify.com](https://devoxify.com/) blo
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/slabiak/AppointmentScheduler.git
+git clone https://github.com/MikaelEngvall/AppointmentScheduler
 ```
 
 **2. Create MySQL database**
